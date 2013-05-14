@@ -38,7 +38,7 @@ sudo apt-get -qq upgrade
 # Install APT packages.
 packages=(
   build-essential libssl-dev
-  git-core
+  git-core tig
   tree sl id3tool
   nmap telnet
   htop
